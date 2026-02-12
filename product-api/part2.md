@@ -1,4 +1,4 @@
-# Backend Pair Activity — Product API Part 2 (Authentication & Route Protection)
+# Backend Activity — Product API Part 2 (Authentication & Route Protection)
 
 ## Overview
 

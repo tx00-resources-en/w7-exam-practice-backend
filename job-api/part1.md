@@ -1,4 +1,4 @@
-# Backend Pair Activity — Job API (Beginner-Friendly)
+# Backend Activity — Job API (Beginner-Friendly)
 
 ## Overview
 

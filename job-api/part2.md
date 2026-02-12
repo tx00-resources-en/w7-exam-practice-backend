@@ -1,4 +1,4 @@
-# Backend Pair Activity — Job API Part 2 (Authentication & Route Protection)
+# Backend Activity — Job API Part 2 (Authentication & Route Protection)
 
 ## Overview
 

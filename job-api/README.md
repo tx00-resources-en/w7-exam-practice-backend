@@ -1,6 +1,6 @@
 # Job API
 
-Backend pair activity — build an Express + MongoDB REST API for job listings.
+Backend activity — build an Express + MongoDB REST API for job listings.
 
 ## Activity Instructions
 

@@ -1,6 +1,6 @@
 # Book API
 
-Backend pair activity — build an Express + MongoDB REST API for book listings.
+Backend activity — build an Express + MongoDB REST API for book listings.
 
 ## Activity Instructions
 

@@ -1,6 +1,6 @@
 # Product API
 
-Backend pair activity — build an Express + MongoDB REST API for product listings.
+Backend activity — build an Express + MongoDB REST API for product listings.
 
 ## Activity Instructions
 

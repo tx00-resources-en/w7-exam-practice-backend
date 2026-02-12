@@ -1,4 +1,4 @@
-# Backend Pair Activity — Book API Part 2 (Authentication & Route Protection)
+# Backend Activity — Book API Part 2 (Authentication & Route Protection)
 
 ## Overview
 
